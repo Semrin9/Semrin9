@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Semrin</h1>
 <h3 align="center">A passionate Sofware Engineer from Jordan</h3>
+<img align ="right" width="400" src ="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semrin9&label=Profile%20views&color=0e75b6&style=flat" alt="semrin9" /> </p>
 
