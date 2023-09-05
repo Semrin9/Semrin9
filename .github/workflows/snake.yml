@@ -15,8 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.0.0
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
