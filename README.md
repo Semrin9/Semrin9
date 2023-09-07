@@ -89,7 +89,6 @@
 ![Snake animation]
 <img src="https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-![Snake animation]
-(https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg)]
 ###
 
