@@ -87,9 +87,9 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ![Snake animation]
-<img src="https://github.com/{{Semrin9}}/{{Semrin9}}/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ![Snake animation]
-(https://github.com/{{Semrin9}}/{{Semrin9}}/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg)
 ###
 
