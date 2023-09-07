@@ -1,3 +1,4 @@
+  <img src="/home/abdullahsemrin/Documents/Training/Semrin9/github-header-image.png" />
 <h2 align="center">Welcome To My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 
