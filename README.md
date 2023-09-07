@@ -1,22 +1,29 @@
-<h2 align="center">Hi 👋! My name is Abdullah and I'm a Software Engineer, from Jordan</h2>
+<h2 align="center">Welcome To My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/semrin9/count.svg?"  />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=I'm+a+Software+Engineer)](https://git.io/typing-svg)
+  
+  <img src="https://profile-counter.glitch.me/semrin9/count.svg?" width="350" />
 </div>
 
 ###
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=semrin9&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semrin9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+    <br>
+  <img src="https://streak-stats.demolab.com?user=semrin9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semrin9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="left">
+  <br>
+  
+## 🛠️ My Skills:
+<div align="center">
+    <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -58,15 +65,16 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <br>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 
 ###
-
-<div align="left">
+## <b>💬 Contact Me!</b>
+<div align="center">
+    <br>
   <a href="https://www.instagram.com/semrin19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -81,15 +89,13 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
 
-![Snake animation]
-<img src="https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-[![Snake animation](https://github.com/Semrin9/Semrin9/blob/output/github-contribution-grid-snake.svg)]
 ###
 
